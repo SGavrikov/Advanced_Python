@@ -1,0 +1,20 @@
+Дата: 04.02.24 | Время: 19:09:12
+<function test_2.<locals>.hello_world at 0x000001977151C5E0>
+(){}
+Hello World
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_2.<locals>.summator at 0x000001977151D5A0>
+(2, 2){}
+4
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_2.<locals>.div at 0x000001977151C310>
+(6, 2){}
+3.0
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_2.<locals>.summator at 0x000001977151D5A0>
+(4.3,){'b': 2.2}
+6.5
+

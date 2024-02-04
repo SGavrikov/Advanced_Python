@@ -1,0 +1,30 @@
+Дата: 04.02.24 | Время: 19:09:12
+<function test_1.<locals>.hello_world at 0x000001977151D630>
+(){}
+Hello World
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_1.<locals>.summator at 0x000001977151E200>
+(2, 2){}
+4
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_1.<locals>.div at 0x000001977151C5E0>
+(6, 2){}
+3.0
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_1.<locals>.summator at 0x000001977151E200>
+(4.3,){'b': 2.2}
+6.5
+
+Дата: 04.02.24 | Время: 19:09:12
+<function test_1.<locals>.summator at 0x000001977151E200>
+(){'a': 0, 'b': 0}
+0
+
+Дата: 04.02.24 | Время: 19:09:12
+<function flat_generator at 0x00000197714DF6D0>
+([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],){}
+<generator object flat_generator at 0x00000197714A23B0>
+

@@ -5,3 +5,4 @@
 2. [2.2. Regular Expressions](2.2.Regular_expressions/) 
 3. [3. Web-scrapping](3.Web-scrapping/) 
 4. [4. Iterators](4.Iterators.Generators/) 
+5. [5. Decorators](5.Decorators/) 
